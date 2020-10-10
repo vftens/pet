@@ -1,0 +1,1 @@
+python cli.py --method pet --pattern_ids $PATTERN_IDS --data_dir $DATA_DIR --model_type $MODEL_TYPE --model_name_or_path $MODEL_NAME_OR_PATH --task_name $TASK --output_dir $OUTPUT_DIR --do_train --do_eval
